@@ -8,7 +8,6 @@ Mendokumentasikan proses instalasi dan konfigurasi tools yang dibutuhkan untuk D
 ## Tools yang Digunakan
 - Vscode
 - Anaconda
-![alt text](https://github.com/salmenn89/instalasi-tools-data-analyst/blob/main/Image/Anaconda%20Navigator.png?raw=true)
 - Google colab
 - Github
 - PostgreSQL
