@@ -8,7 +8,6 @@ Mendokumentasikan proses instalasi dan konfigurasi tools yang dibutuhkan untuk D
 ## Tools yang Digunakan
 - Vscode
 - Anaconda
-![Anaconda](Image/Anaconda Navigator.png)
 - Google colab
 - Github
 - PostgreSQL
